@@ -47,7 +47,8 @@ Görüntü işleme ve yapay zeka alanında uzmanlaşan bir yazılım geliştiric
 
 - Arduino-Python entegrasyonu (pyserial)
 - Gerçek zamanlı hardware kontrolü
-  
+- CUDA GPU hızlandırması (RTX 5060)
+
 ---
 
 ## 🚀 Öne Çıkan Projeler
@@ -76,15 +77,17 @@ Kapsamlı OpenCV öğrenme ve referans koleksiyonu
 
 ## 📊 GitHub İstatistikleri
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SimpleAnarchist&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SimpleAnarchist&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleAnarchist&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleAnarchist&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SimpleAnarchist&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimpleAnarchist&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
