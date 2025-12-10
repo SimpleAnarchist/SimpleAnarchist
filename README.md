@@ -78,12 +78,11 @@ Kapsamlı OpenCV öğrenme ve referans koleksiyonu
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SimpleAnarchist&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleAnarchist&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SimpleAnarchist&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SimpleAnarchist&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SimpleAnarchist&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -144,17 +143,3 @@ learning_path = {
 ![Profile Views](https://komarev.com/ghpvc/?username=SimpleAnarchist&color=58A6FF&style=flat-square)
 
 </div>
-<!--
-**SimpleAnarchist/SimpleAnarchist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
