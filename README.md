@@ -75,14 +75,14 @@ Kapsamlı OpenCV öğrenme ve referans koleksiyonu
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SimpleAnarchist&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SimpleAnarchist&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimpleAnarchist&theme=tokyonight" alt="GitHub Activity Graph" />
 </p>
 
 ---
