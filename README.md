@@ -47,8 +47,7 @@ Görüntü işleme ve yapay zeka alanında uzmanlaşan bir yazılım geliştiric
 
 - Arduino-Python entegrasyonu (pyserial)
 - Gerçek zamanlı hardware kontrolü
-- CUDA GPU hızlandırması (RTX 5060)
-
+  
 ---
 
 ## 🚀 Öne Çıkan Projeler
