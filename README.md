@@ -27,14 +27,15 @@ Görüntü işleme ve yapay zeka alanında uzmanlaşan bir yazılım geliştiric
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 **Uzmanlık Alanları:**
-- YOLOv8 ile nesne tespiti ve model eğitimi
-- OpenCV ile ileri seviye görüntü işleme
+- **YOLOv8** ile nesne tespiti ve custom model eğitimi
+- **OpenCV** ile ileri seviye görüntü işleme (temel → ileri, 15+ modül)
 - Gerçek zamanlı video analizi ve FPS optimizasyonu
-- ROI tabanlı algılama sistemleri
-- CNN mimarileri
+- ROI tabanlı algılama sistemleri ve multi-object tracking
+- **CNN mimarileri** ve derin öğrenme temelleri
 
 ### **Development Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
