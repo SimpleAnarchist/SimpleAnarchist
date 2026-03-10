@@ -15,75 +15,62 @@ Gerçek zamanlı görüntü işleme ve yapay zeka çözümleri geliştiriyorum.
 
 ## 💼 Hakkımda
 
-Görüntü işleme ve yapay zeka alanında uzmanlaşan bir yazılım geliştiriciyim.  
-Özellikle **gerçek zamanlı nesne algılama**, **YOLO tabanlı sistemler** ve **hardware-software entegrasyonu** üzerine odaklanıyorum.
+Görüntü işleme ve yapay zeka alanında uzmanlaşan bir yazılım geliştiriciyim. Özellikle gerçek zamanlı nesne algılama, YOLO tabanlı sistemler ve hardware-software entegrasyonu üzerine odaklanıyorum.
 
-Şu anda:
-
-- Derin öğrenme mimarileri
-- Production-ready computer vision sistemleri
-- GPU hızlandırmalı görüntü işleme
-
-üzerinde çalışıyorum.
+Şu anda derin öğrenme mimarileri ve production-ready computer vision sistemleri üzerinde çalışıyorum.
 
 ---
 
 ## 🛠️ Teknoloji Stack
 
 ### **Computer Vision & AI**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### **Development Tools**
+**Uzmanlık Alanları:**
+- **YOLOv8** ile nesne tespiti ve custom model eğitimi
+- **OpenCV** ile ileri seviye görüntü işleme (temel → ileri, 15+ modül)
+- Gerçek zamanlı video analizi ve FPS optimizasyonu
+- ROI tabanlı algılama sistemleri ve multi-object tracking
+- **CNN mimarileri** ve derin öğrenme temelleri
 
+### **Development Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 ### **Hardware Integration**
-
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 - Arduino-Python entegrasyonu (pyserial)
 - Gerçek zamanlı hardware kontrolü
-- CUDA GPU hızlandırması
+- CUDA GPU hızlandırması (RTX 5060)
 
 ---
 
 ## 🚀 Öne Çıkan Projeler
 
 ### 🐟 YOLOv8 Fish Detection System
-
 Gerçek zamanlı balık algılama ve sınıflandırma sistemi
-
-- Custom YOLOv8 model eğitimi
+- Custom YOLOv8 model eğitimi ve fine-tuning
 - Multi-ROI algılama ve tracking
 - Arduino ile donanım entegrasyonu
-- FPS optimizasyonu
-
----
+- FPS optimizasyonu ve performans iyileştirmeleri
 
 ### 📹 Real-Time Screen Capture Bot
-
 Yüksek performanslı ekran yakalama ve otomasyon sistemi
-
 - mss ile düşük latency ekran yakalama
 - Template matching algoritmaları
 - Çoklu ROI yönetimi
 - Event-driven mimari
 
----
-
 ### 🔬 OpenCV Advanced Library
-
 Kapsamlı OpenCV öğrenme ve referans koleksiyonu
-
 - 15+ modül (temel → ileri seviye)
 - Görsel örnekler ve açıklamalar
 - Production-ready kod örnekleri
@@ -93,15 +80,10 @@ Kapsamlı OpenCV öğrenme ve referans koleksiyonu
 ## 📊 GitHub Activity
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimpleAnarchist&theme=highcontrast&locale=tr" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=SimpleAnarchist&show_icons=true&theme=highcontrast"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleAnarchist&layout=compact&theme=highcontrast"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SimpleAnarchist&theme=highcontrast&locale=tr"/>
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=SimpleAnarchist&theme=highcontrast&locale=tr" alt="GitHub Streak" />
+  </a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimpleAnarchist&theme=highcontrast&locale=tr" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -128,6 +110,7 @@ learning_path = {
         "AI Research & Development"
     ]
 }
+```
 
 ---
 
